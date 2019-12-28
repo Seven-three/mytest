@@ -2,6 +2,7 @@ package A02_Queue;
 
 public class TestCircleQueue {
     public static void main(String[] args) {
+        // test
         CircleQueue q = new CircleQueue(4);
         q.add(1);
         q.add(2);
